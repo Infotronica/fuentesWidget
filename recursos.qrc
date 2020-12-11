@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/Open 24 Display St.ttf</file>
+    </qresource>
+</RCC>
